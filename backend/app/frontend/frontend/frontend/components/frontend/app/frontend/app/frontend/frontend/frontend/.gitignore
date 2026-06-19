@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build outputs
+.next/
+dist/
+build/
+out/
+
+# Environment files
+.env.local
+.env
+
+# Uploads and outputs
+uploads/
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
