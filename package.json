@@ -1,0 +1,8 @@
+{
+  "name": "fahad-clipper",
+  "version": "1.0.0",
+  "description": "AI Video Clipper Backend",
+  "scripts": {
+    "start": "cd backend && uvicorn app.main:app --host 0.0.0.0 --port 8080"
+  }
+}
